@@ -30,7 +30,7 @@ Do not copy, reproduce, or commercialize without written permission.
 
 ## 🗓 Timestamp
 
-This document was first published and committed to this repository on **[commit date]**.  
+This document was first published and committed to this repository on **Jun 29th, 2025**.  
 The Git commit hash and public timestamp serve as cryptographic proof of authorship.
 
 ---
